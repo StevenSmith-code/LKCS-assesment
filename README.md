@@ -1,4 +1,5 @@
 # LKCS-assesment
+Link to view the project: https://stevensmith-code.github.io/LKCS-assesment/
 This project was for applying to LKCS as a frontend developer. Made this with using only html and css.
 My workflow while working on this assesment was as follows:
 
